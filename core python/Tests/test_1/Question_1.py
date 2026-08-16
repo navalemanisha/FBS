@@ -4,4 +4,5 @@ radius = int (input('Enter radius:'))
 
 area = (length * breadth) +( radius * radius)
 print('area.',area)
-print()
+perimeter = (2*length*breadth)+(3.14*radius)
+print('perimeter.',perimeter)
