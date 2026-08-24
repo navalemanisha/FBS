@@ -1,6 +1,8 @@
-ch = int(input('enter the alphabet:'))
+# 2. Write a program to input any alphabet and check whether it is vowel or consonant.
 
-if ch ('a,e,i,o,u'):
+ch = input('enter the alphabet:')
+
+if ch in "a,e,i,o,u":
     print('vowels.')
 
 else:

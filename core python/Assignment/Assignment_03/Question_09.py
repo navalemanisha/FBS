@@ -1,5 +1,6 @@
-m1 = 1
-int(input('Enter marks of subject 1: '))
+# 9. Input 5 subject marks from user and display grade(eg.First class,Second class ..)
+
+m1 = int(input('Enter marks of subject 1: '))
 m2 = int(input('Enter marks of subject 2: '))
 m3 = int(input('Enter marks of subject 3: '))
 m4 = int(input('Enter marks of subject 4: '))

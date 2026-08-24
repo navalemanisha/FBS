@@ -1,3 +1,5 @@
+# 4. WAP to calculate area of triangle and rectangle
+
 base = int(input('Enter base of triangle: '))
 height = int(input('Enter height of triangle: '))
 

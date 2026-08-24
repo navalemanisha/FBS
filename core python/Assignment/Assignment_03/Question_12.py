@@ -1,3 +1,5 @@
+# 12. Write a program to check if given 3 digit number is a palindrome or not.
+
 num = int(input("Enter a 3 digit number: "))
 
 if num < 100 or num > 999:

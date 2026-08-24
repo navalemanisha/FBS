@@ -1,3 +1,5 @@
+# 11. WAP to check if given number Strong Number.
+
 print('To check if given number Strong Number.')
 n = int(input("Enter a number: "))
 

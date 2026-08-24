@@ -1,3 +1,6 @@
+# 1. Write a program to calculate the percentage of student based on marks of any 5
+# subjects.
+
 Marathi = int (input ('Marathi subject marks 1:'))
 Hindi = int (input ('Hindi subject marks 2:'))
 English = int (input ('English subject marks 3:'))

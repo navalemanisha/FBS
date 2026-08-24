@@ -1,3 +1,5 @@
+# 5. WAP to calculate selling price of book based on cost price and discount.
+
 cost_price = int(input('Enter cost price of the book:' ))
 discount = int(input('Enter discount (%)'))
 

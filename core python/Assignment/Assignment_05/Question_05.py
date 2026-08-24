@@ -1,5 +1,6 @@
-print("Prime numbers between 1 and 100 are:")
+# 5. Write a program to print prime numbers between 1 to 100.print("Prime numbers between 1 and 100 are:")
 
+print('prime numbers between 1 to 100.')
 for num in range(2, 101):
     count = 0
 
