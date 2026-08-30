@@ -1,5 +1,5 @@
 # 4. Write a program to enter P, T, R and calculate simple Interest.p = float (input('Enter principal amount:'))
-
+p = float (input('Enter rate of principle:'))
 r = float (input('Enter rate of interest(%):'))
 t = float (input('Enter time of (years):'))
 
